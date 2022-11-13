@@ -1,4 +1,4 @@
-## Olá eu sou Tiago Ferreira, fazendo curso de Técnico em informática e estudando CRUD com PHP
+## Olá eu sou Tiago Ferreira, atualmente fazendo um curso de Técnico em informática e um CRUD com PHP
 
 <div align="center">
   <a href="https://github.com/tiagoferreira22">
